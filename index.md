@@ -8,6 +8,10 @@
 auto myVar = "C++ isn't hard!";
 ```
 
+- [ ] Step 1: wake up
+- [ ] Step 2: take a shit
+- [ ] Step 3: eat
+- [ ] Step 4: leave the bed
 
 ### Markdown h3 header
 
