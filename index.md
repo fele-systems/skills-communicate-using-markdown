@@ -4,6 +4,11 @@
 
 ## Markdown h2 header
 
+``` c++
+auto myVar = "C++ isn't hard!";
+```
+
+
 ### Markdown h3 header
 
 #### Markdown h4 header
