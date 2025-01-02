@@ -2,7 +2,8 @@ on:
   pull_request:
     types:
       - closed
-      - openened
+      - opened
+      - synchronize
 jobs:
   main:
     runs-on: ubuntu-latest
