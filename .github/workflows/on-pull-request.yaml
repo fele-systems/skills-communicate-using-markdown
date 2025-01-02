@@ -1,0 +1,12 @@
+on:
+  pull_request:
+    types:
+      - closed
+      - openened
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Dump"
+        env:
+          DUMP: ${{ toJSON(github.event.pull_request) }}
